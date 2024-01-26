@@ -1,0 +1,5 @@
+Tugas ini berisi = 
+- Perulangan
+- Pengondisian
+- Perulangan pada array 
+- Pengondisian pada array
