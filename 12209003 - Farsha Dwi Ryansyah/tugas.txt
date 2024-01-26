@@ -1,0 +1,7 @@
+Tugas pertemuan minggu 1 
+ - Percabangan
+ - Perulangan
+ - operator
+ - function
+
+ https://github.com/Farshael/pengumpulanPPLG5.git
