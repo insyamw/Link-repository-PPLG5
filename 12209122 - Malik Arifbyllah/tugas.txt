@@ -1,0 +1,8 @@
+Ini tugas terkait logika yang telah dipelajari dalam 4 hari yaitu tentang materi : 
+1. Percabangan (if, elseif, else)
+2. Percabangan & operator ternary
+3.Perulangan (foreach, for)
+
+link Repository :
+https://github.com/MalikArifbyllah/Pengumpulan-tugas-minggu1.git
+
