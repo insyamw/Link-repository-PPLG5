@@ -1,6 +1,6 @@
 Ini tugas terkait logika yang telah dipelajari dalam 4 hari materi mengenai : 
 1. Percabangan (if, elseif, else)
 2. Percabangan & operator ternary
-3.Perulangan (foreach, for)
+3. Perulangan (foreach, for)
 
 Link Repository Github : https://github.com/khairull7/mengulang_php.git
