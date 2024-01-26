@@ -1,0 +1,3 @@
+https://github.com/MohammadRiyanDZ/Pemahaman-Logika
+
+kumpulan dari pengerjaan pemahaman logika seperti operator aritmatika, operator ternary, perulangan dll
